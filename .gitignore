@@ -4,3 +4,8 @@ node_modules/
 dist/
 .wrangler/
 drizzle/
+
+# Claude Code dev files
+.claude/
+CLAUDE.md
+AGENTS.md
