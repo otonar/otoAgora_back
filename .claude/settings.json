@@ -1,0 +1,6 @@
+{
+  "ignorePatterns": [
+    ".env",
+    ".env.*"
+  ]
+}
